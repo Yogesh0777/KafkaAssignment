@@ -1,0 +1,2 @@
+{"id":1,"name":"YogeshSharma","age":23,"course":"BTECH"}
+{"id":2,"name":"YogeshSharma","age":24,"course":"Btech"}
